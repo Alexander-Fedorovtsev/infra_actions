@@ -50,8 +50,7 @@ jobs:
           push: true
           tags: alexanderfedorovtsev/newrepozitory:latest
 
-  
-  # build:
+   # build:
   #   runs-on: ubuntu-latest
 
   #   steps:
